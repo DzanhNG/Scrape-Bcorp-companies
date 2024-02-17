@@ -1,4 +1,2 @@
 # Scrape-Bcorp-companies
-
-#New code in new year
-#Love you Nhi !!!
+Get data of all employees of Bcorp-companies
